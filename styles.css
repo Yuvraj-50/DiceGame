@@ -1,0 +1,49 @@
+body{
+  background-color: #c7f7fa;
+  color:rgb(243, 52, 84);
+}
+h1{
+  font-family: Indie Flower;
+  font-size: 5rem;
+  font-weight: bold;
+  margin: 7% 0 0 0;
+}
+
+.container{
+  text-align: center;
+}
+
+p{
+  font-family: Lobster;
+  padding: 15%;
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.dice{
+  display: inline-block;
+}
+
+.btn-click{
+  text-align: center;
+}
+
+img{
+  width: 50%;
+  margin-bottom: 25%;
+}
+
+footer{
+  padding: 1%;
+  background-color: rgb(243, 52, 84);
+  display: block;
+  margin-top: 6%;
+  text-align: center;
+}
+
+.icons{
+  padding: 2%;
+}
+
+
+
